@@ -24,8 +24,8 @@ int count(struct Cell **cells, int x, int y) {
         int newx=x+exes[i];
         int newy=y+eyes[i];
         if (((newx>=0 && newx<=(WINLENGTH-CELLLENGTH)) && (newy>=0 && newy<=(WINWIDTH-CELLWIDTH)))) {
-            int row = newy/CELLWIDTH;
-            int col = newx/CELLLENGTH;
+            int row=newy/CELLWIDTH;
+            int col=newx/CELLLENGTH;
             if (cells[row][col].isAlive) {
                 count++;
             }
