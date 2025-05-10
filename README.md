@@ -4,16 +4,15 @@
 
 # Game of Life Simulation
 
-A simple and efficient implementation of Conway's **Game of Life** using **C** and **SDL3**.  
+A simple and efficient implementation of Conway's **Game of Life** using **pure C** and **SDL3**.  
 This project visualizes cellular automata with real-time rendering and smooth performance.
 
 ---
 
 ## Features
 
-- High-performance simulation written in C.
+- High-performance simulation written in pure C.
 - Real-time graphical output using **SDL3**.
-- Adjustable simulation speed via keyboard controls.
 
 ---
 
