@@ -35,7 +35,7 @@ Conway's Game of Life is a cellular automaton where each cell evolves based on s
 ### Build:
 
 ```bash
-git clone https://github.com/yourname/GameOfLife.git
+git clone https://github.com/strict1parents/GameOfLife.git
 cd GameOfLife
 make
 ```
