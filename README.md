@@ -1,3 +1,7 @@
+
+![Game of Life Preview](https://i.imgur.com/LcvSqFa.gif)
+
+
 # Game of Life Simulation
 
 A simple and efficient implementation of Conway's **Game of Life** using **C** and **SDL3**.  
